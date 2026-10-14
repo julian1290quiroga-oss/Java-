@@ -8,5 +8,5 @@ public class Main {
     }
 
 
-// hola vean one poice
+// hola vean one piecegit
 }
